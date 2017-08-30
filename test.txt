@@ -1,7 +1,10 @@
 Dette er en test A
+NY
 Dette er en test C
 Dette er en test D
 Dette er en test E
 E2
 E3
+NY
 Dette er en test F
+NY
